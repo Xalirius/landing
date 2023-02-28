@@ -1,0 +1,22 @@
+
+
+.banner{
+  background-image: url('//source.unsplash.com/random');
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  height: 250px;
+}
+.container{
+  line-height: 24px;
+  color: white;
+  text-align: start;
+}
+.banner .btn-green{
+  background-color: #1cdd87;
+  border-radius: 30px;
+  text-decoration: none;
+  color:rgb(255, 255, 255);
+  padding: 12px 30px;
+  font-size: small;
+}
